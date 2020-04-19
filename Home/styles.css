@@ -1,0 +1,85 @@
+body{
+    background-color: black;
+    font-size: large;
+    font-family: sans-serif;
+    color: white;
+}
+#Cabecalho{
+    color: yellow;
+    border-radius: 10px;
+    border: gray 1px solid;
+    margin-bottom: 50px;
+    padding-left: 40%;
+    box-shadow: black 2px 2px 5px;
+}
+
+#conteudo{
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 2%;
+}
+
+a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: red;
+    text-decoration: unset;
+}
+
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    
+}
+
+#logo{
+    width: 100%;
+}
+
+#titulodestaque{
+    color: yellow;
+    display: flex;
+    justify-content: center;
+    text-shadow: black 1px 1px 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-emphasis-color: white;
+}
+
+#depoimento.li{
+    display: flex;
+    margin-bottom: 5px;
+}
+
+#titulodepoimento.h3{
+    color: yellow;
+    display: flex;
+    justify-content: center;
+    text-shadow: black 1px 1px 3px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#viddepoimento{
+    display: flex;
+    margin-top: 3px;
+    margin-bottom: 5px;
+    width: 100%;
+    justify-content: center;
+}
+
+h3{
+    color: yellow;
+    display: flex;
+    justify-content: center;
+    text-shadow: black 1px 1px 3px;
+    margin-bottom: 5px;
+}
+#prevencao.li{
+    display: flex;
+    margin-bottom: 5px;
+}
+
+#vidprevencao{
+    display: flex;
+    width: 100%;
+    margin-bottom: 5px;
+}

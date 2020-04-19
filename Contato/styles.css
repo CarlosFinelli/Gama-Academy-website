@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    font-size: medium;
+    font-family: sans-serif;
+    color: white;
+}
+
+#conteudo{
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 2%;
+}
+
+#Cabecalho{
+    color: yellow;
+    border-radius: 10px;
+    border: white 1px solid;
+    margin-bottom: 50px;
+    padding-left: 40%;
+    box-shadow: black 2px 2px 5px;
+}
+
+a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: red;
+    text-decoration: unset;
+}
+
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+    font-size: large;
+}
+
+#rodape{
+    margin-top: 20px;
+    text-align: center;
+    border: white 3px solid;
+    border-radius: 3px;
+}
+
+p{
+    text-align: center;
+}
